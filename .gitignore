@@ -1,0 +1,6 @@
+*.log
+*.tmp
+*.bak
+webserver-audit-report.txt
+backups/
+.DS_Store
